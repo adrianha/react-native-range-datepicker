@@ -1,6 +1,6 @@
 {
   "name": "react-native-range-datepicker",
-  "version": "1.6.0",
+  "version": "1.8.2",
   "description": "React native range datepicker (inspired by Airbnb Datepicker)",
   "main": "index.js",
   "scripts": {
@@ -19,6 +19,7 @@
   "author": "Hanson Citra <hansoncitra@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "moment": "^2.17.1"
+    "moment": "^2.17.1",
+    "prop-types": "^15.6.0"
   }
 }
